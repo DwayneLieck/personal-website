@@ -21,25 +21,36 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+
+  - title: Research Assistant
+    company: University Duisburg-Essen
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Germany
+    date_start: '2020-11-01'
+    date_end: '2021-02-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Project Planning
+        * Experiment Implementation
+        * Data Analysis
         
-  - title: Professor
-    company: University X
+  - title: Research Intern
+    company: Technical University Dortmund
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Germany
+    date_start: '2020-02-01'
+    date_end: '2020-05-01'
+    description: Research Internship in Social, Organizational and Work Psychology
+
+  - title: Research Intern
+    company: University Duisburg-Essen
+    company_url: ''
+    location: Germany
+    date_start: '2019-06-01'
+    date_end: '2019-09-01'
+    description: Research Internship in Social Psychology
+
 ---
