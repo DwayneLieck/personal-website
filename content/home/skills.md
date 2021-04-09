@@ -17,17 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
+  icon: flask
+  icon_pack: fas
+  name: Research Methods
+- description: 
+  icon: osf
+  icon_pack: ai
+  name: Open Science
+- description: 
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: IBM SPSS Statistics
 - description:
   icon: r-project
   icon_pack: fab
   name: R-Studio
-- description: 
-  icon: open-access
-  icon_pack: ai
-  name: Open Science
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

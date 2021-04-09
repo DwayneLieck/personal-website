@@ -50,9 +50,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dwayne_lieck
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dwayne-lieck-6231b520b/
+
 
 
 # Link to a PDF of your resume/CV.
