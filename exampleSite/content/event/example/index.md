@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Big Team Science
+
 
 event: Wowchemy Conference
-event_url: https://example.org
 
 location: Wowchemy HQ
 address:

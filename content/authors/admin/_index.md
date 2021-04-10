@@ -6,12 +6,12 @@ title: Dwayne Lieck
 superuser: true
 
 # Role/position/tagline
-role: Research Assisstant
+role: Research Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Freiburg
-  url: https://uni-freiburg.de
+- name: Center for Open Science
+  url: https://www.cos.io
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include environemntal psychology, meta-science and Open Science.
@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a masters student at the University of Freiburg and I currently work as a research assisstant at the University of Freiburg. My research interests include meta-science, environemntal psychology and Open Science.
+I am a masters student studying Psychology at the University of Freiburg. I currently work as a research consultant at the Center for Open Science. My research interests include meta-science, environmental psychology and Open Science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "authors/admin/CV Dwayne Lieck.pdf" "newtab" >}}resumé{{< /staticref >}}.

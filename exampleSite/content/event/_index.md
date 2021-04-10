@@ -1,6 +1,8 @@
 ---
 title: Recent & Upcoming Talks
 
+active: false
+
 # View.
 #   1 = List
 #   2 = Compact

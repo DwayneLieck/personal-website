@@ -5,6 +5,8 @@ tags:
 - Open Science
 date: "2016-04-27T00:00:00Z"
 
+external_link: https://reproducibilitea.org/journal-clubs/#Freiburg
+
 image:
   caption: 
   focal_point: Smart
@@ -32,3 +34,4 @@ url_video: ""
 slides: ""
 ---
 
+A ReproducibiliTea Journal Club at the University of Freiburg that discusses Open Science and Meta-Science topics.

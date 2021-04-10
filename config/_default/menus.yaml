@@ -13,7 +13,9 @@ main:
   - name: CV
     url: authors/admin/CV Dwayne Lieck.pdf
     weight: 30
-
+  - name: ReproducibiliTea Freiburg
+    url: '#projects'
+    weight: 40
   
 
 # Link to a PDF of your resume/CV from the menu.
