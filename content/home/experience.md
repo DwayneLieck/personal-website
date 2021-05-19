@@ -24,6 +24,15 @@ date_format: Jan 2006
 
 experience:
 
+  - title: Research Consultant
+    company: Center for Open Science
+    company_url: ''
+    location: USA
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+        Research Consultant on the SCORE Project
+
   - title: Research Assistant
     company: University Duisburg-Essen
     company_url: ''
@@ -31,7 +40,7 @@ experience:
     date_start: '2020-11-01'
     date_end: '2021-02-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Project Planning
         * Experiment Implementation

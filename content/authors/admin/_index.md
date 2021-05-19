@@ -11,15 +11,15 @@ role: Research Consultant
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Center for Open Science
-  url: https://www.cos.io
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environemntal psychology, meta-science and Open Science.
+bio: My research interests include social and environmental psychology, meta-science and Open Science.
 
 # Interests to show in About widget
 interests:
 - Meta-Science
-- Environmental Psyhology
+- Social/Environmental Psychology
 - Open Science
 
 # Education to show in About widget
@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a masters student studying Psychology at the University of Freiburg. I currently work as a research consultant at the Center for Open Science. My research interests include meta-science, environmental psychology and Open Science.
+I am a masters student in Psychology at the University of Freiburg. I currently work as a research consultant at the Center for Open Science. My research interests include meta-science, environmental psychology and Open Science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "authors/admin/CV Dwayne Lieck.pdf" "newtab" >}}resumé{{< /staticref >}}.
